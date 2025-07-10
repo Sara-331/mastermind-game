@@ -1,0 +1,14 @@
+C:\Users\agftywq\test c#\Savvy\Savvy\bin\Debug\net9.0\Savvy.exe
+C:\Users\agftywq\test c#\Savvy\Savvy\bin\Debug\net9.0\Savvy.deps.json
+C:\Users\agftywq\test c#\Savvy\Savvy\bin\Debug\net9.0\Savvy.runtimeconfig.json
+C:\Users\agftywq\test c#\Savvy\Savvy\bin\Debug\net9.0\Savvy.dll
+C:\Users\agftywq\test c#\Savvy\Savvy\bin\Debug\net9.0\Savvy.pdb
+C:\Users\agftywq\test c#\Savvy\Savvy\obj\Debug\net9.0\Savvy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agftywq\test c#\Savvy\Savvy\obj\Debug\net9.0\Savvy.AssemblyInfoInputs.cache
+C:\Users\agftywq\test c#\Savvy\Savvy\obj\Debug\net9.0\Savvy.AssemblyInfo.cs
+C:\Users\agftywq\test c#\Savvy\Savvy\obj\Debug\net9.0\Savvy.csproj.CoreCompileInputs.cache
+C:\Users\agftywq\test c#\Savvy\Savvy\obj\Debug\net9.0\Savvy.dll
+C:\Users\agftywq\test c#\Savvy\Savvy\obj\Debug\net9.0\refint\Savvy.dll
+C:\Users\agftywq\test c#\Savvy\Savvy\obj\Debug\net9.0\Savvy.pdb
+C:\Users\agftywq\test c#\Savvy\Savvy\obj\Debug\net9.0\Savvy.genruntimeconfig.cache
+C:\Users\agftywq\test c#\Savvy\Savvy\obj\Debug\net9.0\ref\Savvy.dll
