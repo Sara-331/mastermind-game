@@ -3,7 +3,7 @@ public class SecretCode
 {
     public string Code { get; private set; }
 
-    public SecretCode(string customCode = null)
+    public SecretCode(string customCode = null) //Checks if it is valid using IsValid()
     {
         if (!string.IsNullOrEmpty(customCode))
         {
@@ -26,7 +26,7 @@ public class SecretCode
                code.All(c => "012345678".Contains(c));
     }
 
-    private string GenerateRandomCode()
+    private string GenerateRandomCode() //Generate random code
     {
         var digits = "012345678".ToList();
         var rnd = new Random();
@@ -42,7 +42,7 @@ public class SecretCode
         return result;
     }
 
-    public (int wellPlaced, int misplaced) EvaluateGuess(string guess)
+    public (int wellPlaced, int misplaced) EvaluateGuess(string guess) //Rate the player's guess
     {
         int wellPlaced = 0;
         int misplaced = 0;
