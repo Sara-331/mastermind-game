@@ -1,19 +1,20 @@
-This is a console-based version of the Mastermind game, written in C#.
+# Mastermind Game
 
-The game generates a secret code made of 4 distinct digits from 0 to 8. The player has a limited number of attempts to guess the correct code. After each guess, the program shows how many digits are well-placed (correct position) and how many are misplaced (correct digit but wrong position). 
+A simple console game in C#.
 
-You can start the game using the command line with optional parameters:
-- -c [CODE] to set a custom secret code (like -c 0123)
-- -t [ATTEMPTS] to set number of attempts (default is 10)
+Guess a secret code of 4 different digits (0-8) in limited tries.  
+After each guess, you see how many digits are correct and well-placed or misplaced.
 
-Example:
+Run from terminal:  
+- Use `-c [CODE]` to set the secret code (e.g. `-c 0123`)  
+- Use `-t [ATTEMPTS]` to set number of tries (default 10)
 
-When the game starts, it displays:
+When the game starts, it says:  
 "Can you break the code? Enter a valid guess."
 
-If the guess is correct, it shows:
+If you win, it says:  
 "Congratz! You did it!"
 
-If the guess is invalid or incorrect, it will show how many well-placed and misplaced digits.
+If wrong, it shows how many digits are well placed and misplaced.
 
-Developed by Sara AlSuhaibani for the Savvy Kickstarter Program - Gameplay Programming Track.
+Made by Sara AlSuhaibani for Savvy Kickstarter Program – Gameplay Programming Track
