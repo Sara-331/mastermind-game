@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agftywq\\Desktop\\savvey\\mastermind-game\\Savvy\\Savvy.csproj",
+      "projectUniqueName": "C:\\Users\\agftywq\\Desktop\\mastermind-game\\Savvy.csproj",
       "projectName": "Savvy",
-      "projectPath": "C:\\Users\\agftywq\\Desktop\\savvey\\mastermind-game\\Savvy\\Savvy.csproj",
+      "projectPath": "C:\\Users\\agftywq\\Desktop\\mastermind-game\\Savvy.csproj",
       "packagesPath": "C:\\Users\\agftywq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agftywq\\Desktop\\savvey\\mastermind-game\\Savvy\\obj\\",
+      "outputPath": "C:\\Users\\agftywq\\Desktop\\mastermind-game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
